@@ -1,0 +1,17 @@
+﻿  ConsoleApplication4.cpp
+c:\users\rando\desktop\informatique graphique\consoleapplication4\consoleapplication4\Scene.h(37): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\rando\desktop\informatique graphique\consoleapplication4\consoleapplication4\Scene.h(93): warning C4554: '&' : vérifiez la priorité des opérateurs comme cause possible d'erreur ; utilisez des parenthèses pour rendre plus claires les priorités
+c:\users\rando\desktop\informatique graphique\consoleapplication4\consoleapplication4\Scene.h(67): warning C4101: 'CS' : variable locale non référencée
+c:\users\rando\desktop\informatique graphique\consoleapplication4\consoleapplication4\Geometry.h(24): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\rando\desktop\informatique graphique\consoleapplication4\consoleapplication4\Geometry.h(36): warning C4018: '<' : incompatibilité signed/unsigned
+ConsoleApplication4.cpp(164): warning C4244: '=' : conversion de 'double' en 'unsigned char', perte possible de données
+ConsoleApplication4.cpp(165): warning C4244: '=' : conversion de 'double' en 'unsigned char', perte possible de données
+ConsoleApplication4.cpp(166): warning C4244: '=' : conversion de 'double' en 'unsigned char', perte possible de données
+  Geometry.cpp
+c:\users\rando\desktop\informatique graphique\consoleapplication4\consoleapplication4\Geometry.h(24): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\rando\desktop\informatique graphique\consoleapplication4\consoleapplication4\Geometry.h(36): warning C4018: '<' : incompatibilité signed/unsigned
+  Génération de code en cours
+c:\users\rando\desktop\informatique graphique\consoleapplication4\consoleapplication4\triangle.h(44): warning C4715: 'Triangle::intersect' : les chemins de contrôle ne retournent pas tous une valeur
+  All 338 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  ConsoleApplication4.vcxproj -> C:\Users\rando\Desktop\Informatique graphique\ConsoleApplication4\Release\ConsoleApplication4.exe

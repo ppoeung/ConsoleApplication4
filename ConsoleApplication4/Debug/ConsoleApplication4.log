@@ -1,0 +1,26 @@
+﻿  ConsoleApplication4.cpp
+c:\users\rando\desktop\informatique graphique\consoleapplication4\consoleapplication4\scene.h(37): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\rando\desktop\informatique graphique\consoleapplication4\consoleapplication4\scene.h(93): warning C4554: '&' : vérifiez la priorité des opérateurs comme cause possible d'erreur ; utilisez des parenthèses pour rendre plus claires les priorités
+c:\users\rando\desktop\informatique graphique\consoleapplication4\consoleapplication4\scene.h(67): warning C4101: 'CS' : variable locale non référencée
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\xutility(942): error C2064: le terme ne correspond pas à une fonction qui prend 2 arguments
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\xutility(939): note: voir la référence à l'instanciation de la fonction modèle 'bool std::_Debug_lt_pred<_Pr&,const _Ty&,const _Ty&>(double&,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)' en cours de compilation
+          with
+          [
+              _Pr=double,
+              _Ty=double,
+              _Ty1=const double &,
+              _Ty2=const double &
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\algorithm(3732): note: voir la référence à l'instanciation de la fonction modèle 'const _Ty &std::min<double,double>(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)' en cours de compilation
+          with
+          [
+              _Ty=double,
+              _Pr=double
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\xutility(942): error C2056: expression non conforme
+c:\users\rando\desktop\informatique graphique\consoleapplication4\consoleapplication4\geometry.h(26): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\rando\desktop\informatique graphique\consoleapplication4\consoleapplication4\geometry.h(31): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\rando\desktop\informatique graphique\consoleapplication4\consoleapplication4\geometry.h(49): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\rando\desktop\informatique graphique\consoleapplication4\consoleapplication4\consoleapplication4.cpp(164): warning C4244: '=' : conversion de 'double' en 'unsigned char', perte possible de données
+c:\users\rando\desktop\informatique graphique\consoleapplication4\consoleapplication4\consoleapplication4.cpp(165): warning C4244: '=' : conversion de 'double' en 'unsigned char', perte possible de données
+c:\users\rando\desktop\informatique graphique\consoleapplication4\consoleapplication4\consoleapplication4.cpp(166): warning C4244: '=' : conversion de 'double' en 'unsigned char', perte possible de données

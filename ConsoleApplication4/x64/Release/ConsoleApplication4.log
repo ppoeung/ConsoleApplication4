@@ -1,0 +1,10 @@
+﻿  ConsoleApplication4.cpp
+ConsoleApplication4.cpp(162): warning C4244: '=' : conversion de 'const double' en 'unsigned char', perte possible de données
+ConsoleApplication4.cpp(163): warning C4244: '=' : conversion de 'const double' en 'unsigned char', perte possible de données
+ConsoleApplication4.cpp(164): warning C4244: '=' : conversion de 'const double' en 'unsigned char', perte possible de données
+  Génération de code en cours
+  13 of 166 functions ( 7.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  ConsoleApplication4.vcxproj -> C:\Users\rando\Desktop\Informatique graphique\ConsoleApplication4\x64\Release\ConsoleApplication4.exe
